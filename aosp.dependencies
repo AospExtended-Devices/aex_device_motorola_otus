@@ -12,14 +12,8 @@
   },
   {
     "remote":       "github",
-    "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
+    "repository": "hamza-badar/proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
-    "branch":      "cm-14.1"
-  },
-  {
-    "remote":       "github",
-    "repository": "LineageOS/android_external_bson",
-    "target_path": "external/bson",
     "branch":      "cm-14.1"
   },
   {
