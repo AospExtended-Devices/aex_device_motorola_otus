@@ -45,3 +45,7 @@ $(call inherit-product, device/motorola/msm8610-common/msm8610.mk)
 # CMActions
 PRODUCT_PACKAGES += \
     CMActions
+
+# Email
+PRODUCT_PACKAGES += \
+    Email
